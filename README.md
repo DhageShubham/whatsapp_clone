@@ -1,2 +1,2 @@
 # WhatsApp_clone
-This is a 
+This is a simple whatsapp cclone.
